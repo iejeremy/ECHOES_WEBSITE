@@ -239,7 +239,7 @@ h1 {
   display: grid;
   place-items: center;
   overflow: hidden;
-  background-image: url("assets/echoes-pyramid.jpg");
+  background-image: url("echoes-pyramid.jpg");
   background-size: cover;
   background-position: center 42%;
 }
